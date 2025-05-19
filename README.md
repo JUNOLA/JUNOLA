@@ -7,13 +7,14 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [LeCaLa](https://play.google.com/store/apps/details?id=com.jintelias.lecala).
+- ✅ I'm done with the [LeCaLa](https://play.google.com/store/apps/details?id=com.jintelias.lecala)
+- 🔭 I’m currently building LionAi (AI to translate African languages).
 - 🌱 I’m currently learning more about Entrepreneurship.
-- 👯 I’m looking to collaborate on [LinkedIn](https://youtube.com/hellocodepur).
-- 🤩 I'm a real electronics and computer fanatic.
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 👯 I’m looking to collaborate on [LinkedIn](linkedin.com/in/junola-kamdem-ab9260219).
+- 🤩 I'm a real computer and electronics fanatic.
+- 💬 Ask me about Python, Flutter, C++ or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 10 hours listening to songs every day.
+- ⚡ Fun fact: I spend almost 6 hours listening to songs every day.
 
 
 ## 🌐 Socials
