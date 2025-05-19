@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His
 - ✅ I'm done with the [LeCaLa](https://play.google.com/store/apps/details?id=com.jintelias.lecala)
 - 🔭 I’m currently building LionAi (AI to translate African languages).
-- 🌱 I’m currently learning more about Entrepreneurship.
+- 🌱 I’m currently learning more about Entrepreneurship [JintẽliaS](https://jintelias.com/).
 - 👯 I’m looking to collaborate on [LinkedIn](linkedin.com/in/junola-kamdem-ab9260219).
 - 🤩 I'm a real computer and electronics fanatic.
 - 💬 Ask me about Python, Flutter, C++ or any tech-related stuff.
