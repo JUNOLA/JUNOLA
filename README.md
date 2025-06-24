@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- ✅ I'm done with the [LeCaLa](https://play.google.com/store/apps/details?id=com.jintelias.lecala)
+- ✅ I'm done with the [Afrilingo](https://play.google.com/store/apps/details?id=com.jintelias.lecala)
 - 🔭 I’m currently building [Tradika](https://tradika.jintelias.com) (AI to translate African languages).
 - 🌱 I’m currently learning more about Entrepreneurship [JintẽliaS](https://jintelias.com/).
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/junola-kamdem-ab9260219).
